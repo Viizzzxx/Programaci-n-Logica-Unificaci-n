@@ -12,5 +12,6 @@ padre(maria, jose).
 abuelo(X, Y) :- padre(X, Z), padre(Z, Y).
 
 
-%Ejecutar ' swipl -s ejemplo.pl ' en la terminal
+%Ejecutar ' swipl ' en la terminal
 %Escribir: elixir(coca).
+%Escribir: abuelo(juan, jose).
