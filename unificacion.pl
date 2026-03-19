@@ -24,7 +24,7 @@ par(14, v(X, f(X)),     v(a, f(a))).
 par(15, w(X, f(X)),     w(a, f(b))).
 
 % -----------------------------------------
-% Probar un solo par
+% Probar un solo par!
 % -----------------------------------------
 
 probar_uno(N) :-
