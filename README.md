@@ -61,3 +61,17 @@ Una vez dentro, puedes probar el funcionamiento de dos formas:
    Ejecuta todos los casos de prueba de manera automática.
 
    **Para salir de la ejecución del programa escribe " halt. " en la terminal**
+
+   **---Actividad a realizar---**
+
+1. Elijan 3 pares de términos del programa.
+2. En una hoja escriban:
+   - si creen que sí unifican o no unifican
+   - y una razón breve (justificable)
+3. Después ejecuten esos 3 casos en Prolog para comprobarlo.
+4. Tomen una foto o captura de su resultado.
+
+Evidencia
+
+- Captura con sus respuestas.
+- Captura de la terminal ejecutando los 3 casos elegidos.
